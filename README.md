@@ -1,2 +1,2 @@
-# mobirise-smoothies
+# mobirise-smoothie
 GitHub Pages
